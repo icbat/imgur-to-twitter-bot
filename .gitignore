@@ -4,3 +4,6 @@ Scripts/
 Lib/
 Include/
 pip-selfcheck.json
+
+# other python stuff
+__pycache__/

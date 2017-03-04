@@ -1,6 +1,10 @@
 import time
+from os import environ
 
-sleep_seconds = 60
+print("Reading from environment variables")
+
+sleep_seconds = environ["peon_sleep_seconds"]
+
 print("Ready to work.")
 while True:
     print("Work, work.")

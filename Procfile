@@ -1,1 +1,1 @@
-worker: python peon.py
+worker: python src/peon.py

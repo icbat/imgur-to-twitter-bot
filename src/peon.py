@@ -7,8 +7,6 @@ import twitter_api
 
 print("Reading from environment variables")
 
-sleep_seconds = int(environ["peon_sleep_seconds"])
-
 album_id = environ["imgur_album_id"]
 imgur_client_id = environ["imgur_client_id"]
 imgur_client_secret = environ["imgur_client_secret"]

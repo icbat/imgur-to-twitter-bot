@@ -1,0 +1,6 @@
+# windows virtualenv
+tcl/
+Scripts/
+Lib/
+Include/
+pip-selfcheck.json
